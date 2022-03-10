@@ -29,3 +29,5 @@
 * CollectionView;
 * Жесты и анимация;
 * Xcode debugging.
+
+![Apple logo](img/unnamed.jpg)
